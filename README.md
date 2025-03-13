@@ -10,11 +10,14 @@ The witch trials were widespread in many different countries in the early modern
 
 ## Methodology:
 1. Cleaned the two data sets that were used by removing missing data and creating consistent formatting .
-2. Used packages such as pandas to group related columns together in a subset of the data set for analysis .
-3. Used visualization packages such as matplotlib and seaborn to create visualizations to answer research questions.
+2. Conducted some Exploratory Data Analysis. 
+3. Used packages such as pandas to group related columns together in a subset of the data set for analysis .
+4. Used visualization packages such as matplotlib and seaborn to create visualizations to answer research questions.
 
 ## Skills:
 Python: Pandas, Matplotlib, Numpy, Seaborn, Plotly, Scikit Learn
+Data Cleaning
+Exploratory Data Analysis 
 
 ## Results:
  We were able to answer our research questions:
@@ -33,3 +36,7 @@ Using the Scottish witchcraft survey data identified a variety of variables that
 **Did climate or weather conditions drive witchcraft trials?**
 
 From the four scatterplots detailing, trials vs weather, trials vs temperature, trials.mil vs weather, and trials.mil vs temperature we observed that a higher measure of trials occured in weather with negative values which represented less precipitation and a higher measure of trials occured in colder temperatures. We also observed a higher frequency of trials and trials.mil occured in colder temperatures and in weather with less precipitation. So from this we insinuated that perhaps the witchcraft trials occured during weather that brought drought and in temperatures creating cold enough temperatures that may have destroyed crops and hence food supplies. We know from the Scottish witchcraft survey dataset that storms in witchcraft trials were likely (~75%) to result in an execution, so there is a relationship between witchcraft trials and the weather. With the correlation found among cold temperatures and trials, detrimental effects of cold weather may have been blamed on witches.
+
+## Next Steps:
+1. Look for further data perhaps expand to other continents as this was just focused on Europe.
+2. Come up with further research questions. 
