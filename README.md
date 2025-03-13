@@ -20,7 +20,8 @@ Data Cleaning
 Exploratory Data Analysis 
 
 ## Results:
- We were able to answer our research questions:
+ We were able to answer our research questions:  
+ 
 **How did witchcraft trials change over time and geography?**
 
 In our various plots, we looked at how the amount of trials changed over many centuries. From these plots, we can see that the highest peaks of witchcraft trials occurred during the 17th century, with the trials mostly occurring in Germany, Switzerland, Scotland, and Spain.
