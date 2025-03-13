@@ -15,8 +15,8 @@ The witch trials were widespread in many different countries in the early modern
 4. Used visualization packages such as matplotlib and seaborn to create visualizations to answer research questions.
 
 ## Skills:
-Python: Pandas, Matplotlib, Numpy, Seaborn, Plotly, Scikit Learn
-Data Cleaning
+Python: Pandas, Matplotlib, Numpy, Seaborn, Plotly, Scikit Learn  
+Data Cleaning  
 Exploratory Data Analysis 
 
 ## Results:
